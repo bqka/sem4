@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "75e078ba6dc0d55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfd0c6b2c47f9768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24017c7a0b6d7e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSAO MM Chapter 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSAO MM Chapter 6"
+            }
+          },
+          {
+            "id": "54acad732a6dd3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSAO MM Chapter 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSAO MM Chapter 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c4bef015c7cb286",
+    "type": "split",
+    "children": [
+      {
+        "id": "00874e547b08fdc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e0d5c4a4140c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7409245b8cca9ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2b4c672f7d4cb5a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "88f8f56b661a505c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd0fe4c875e8ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af40f2f8aae4bb92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unit 1"
+            }
+          },
+          {
+            "id": "09a81aaea3dcedcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unit 1"
+            }
+          },
+          {
+            "id": "cd977b137d2b0cb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4819734b46887dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unit 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24017c7a0b6d7e87",
+  "lastOpenFiles": [
+    "Pasted image 20250301020320.png",
+    "Pasted image 20250301020252.png",
+    "Pasted image 20250301020243.png",
+    "Pasted image 20250301020219.png",
+    "CSAO Unit 2.md",
+    "CSAO MM Chapter 6.md",
+    "csao/Pasted image 20250301012448.png",
+    "csao/Pasted image 20250301010822.png",
+    "csao/Pasted image 20250301011557.png",
+    "csao/Pasted image 20250301011508.png",
+    "csao/Pasted image 20250301001001.png",
+    "csao/Pasted image 20250301005649.png",
+    "csao/Pasted image 20250301005044.png",
+    "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67ac31.TMP",
+    "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67985b.TMP",
+    "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg.~tmp",
+    "csao/notes/WhatsApp Image 2025-02-27 at 14.13.45.jpeg.~tmp",
+    "CSAO Unit 1.md",
+    "csao/notes",
+    "csao/WhatsApp Unknown 2025-02-28 at 20.29.17",
+    "PNS Mid Terms.md",
+    "csao",
+    "TOC Mid Terms.md",
+    "toc",
+    "images",
+    "Welcome.md",
+    "pns"
+  ]
+}
