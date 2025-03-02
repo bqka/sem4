@@ -7,6 +7,7 @@
 ![[Pasted image 20250226013831.png]]
 ![[Pasted image 20250226014020.png|500]]
 ![[Pasted image 20250226025449.png]]
+2^Q means power set of Q
 ![[Pasted image 20250226025839.png]]
 ![[Pasted image 20250226030159.png]]
 ![[Pasted image 20250226033304.png]]

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSAO MM Chapter 6.md",
+                "file": "csao/CSAO Unit 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSAO MM Chapter 6"
+              "title": "CSAO Unit 2"
+            }
+          },
+          {
+            "id": "f53d396518b5a4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "csao/CSAO Unit 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSAO Unit 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,21 +185,29 @@
   },
   "active": "36e0d5c4a4140c0d",
   "lastOpenFiles": [
-    "csao/Pasted image 20250301044613.png",
-    "csao/Pasted image 20250301044103.png",
-    "CSAO MM Chapter 6.md",
-    "CSAO Unit 2.md",
-    "images/Pasted image 20250301043739.png",
-    "images/Pasted image 20250301041834.png",
-    "images/Pasted image 20250301041809.png",
-    "images/Pasted image 20250301041747.png",
-    "images/Pasted image 20250301041742.png",
-    "images/Pasted image 20250301041626.png",
-    "images/Pasted image 20250301041613.png",
-    "images/Pasted image 20250301041308.png",
-    "CSAO Unit 1.md",
-    "TOC Mid Terms.md",
-    "PNS Mid Terms.md",
+    "csao/CSAO Unit 2.md",
+    "csao/CSAO Unit 3.md",
+    "csao/CSAO Unit 1.md",
+    "toc/TOC Unit 3.md",
+    "toc/attachments/Pasted image 20250302214345.png",
+    "toc/attachments/Pasted image 20250302214211.png",
+    "toc/attachments/Pasted image 20250302214122.png",
+    "toc/attachments/Pasted image 20250302213950.png",
+    "toc/attachments/Pasted image 20250302213920.png",
+    "toc/attachments/Pasted image 20250302213452.png",
+    "toc/attachments/Pasted image 20250302213450.png",
+    "toc/attachments/Pasted image 20250302212717.png",
+    "toc/attachments/Pasted image 20250302212543.png",
+    "toc/attachments/Pasted image 20250302212457.png",
+    "toc/attachments",
+    "toc/TOC Unit 2.md",
+    "toc/TOC Unit 1.md",
+    "dbms/DBMS Unit 1.md",
+    "dbms/attachments",
+    "images/Untitled.md",
+    "dbms",
+    "csao/CSAO MM Chapter 6.md",
+    "pns/PNS Mid Terms.md",
     "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67ac31.TMP",
     "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67985b.TMP",
     "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg.~tmp",
@@ -192,9 +215,6 @@
     "csao/notes",
     "csao/WhatsApp Unknown 2025-02-28 at 20.29.17",
     "csao",
-    "toc",
-    "images",
-    "Welcome.md",
-    "pns"
+    "Welcome.md"
   ]
 }

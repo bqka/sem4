@@ -1,7 +1,6 @@
 ![[Pasted image 20250228210137.png]]
 
 ![[Pasted image 20250228210206.png]]
-
 # Stored Program Organization
 
 ![[Pasted image 20250228211936.png]]
