@@ -12,28 +12,25 @@
 
 ## Type 0
 
-Unrestricted Grammar
+ Phrase Structure Grammar
 accepted by Turing Machine
-![[Pasted image 20250302053715.png|300]]
-
+![[Pasted image 20250303072535.png]]
 ## Type 1
 
 case sensitive/non contracting/length increasing grammar
 Context Sensitive Grammar 
 accepted by LBA (Linear Bounded Automation)
-![[Pasted image 20250302053750.png|400]]
+![[Pasted image 20250303072557.png]]
 ![[Pasted image 20250302054643.png]]
 
 ## Type 2
 
 Context free grammar 
 accepted by PDA (Push Down Automata)
-![[Pasted image 20250302054736.png|300]]
-
+![[Pasted image 20250303072612.png]]
 ## Type 3
 
-![[Pasted image 20250302055748.png]]
-
+![[Pasted image 20250303072621.png]]
 ![[Pasted image 20250302062153.png]]
 
 # Derivation
@@ -51,7 +48,8 @@ accepted by PDA (Push Down Automata)
 # Minimization of CFG
 
 ![[Pasted image 20250302212107.png]]
-![[Pasted image 20250302212236.png]]
+
+![[Pasted image 20250303065354.png]]
 ![[Pasted image 20250302212457.png|400]]
 ![[Pasted image 20250302212543.png|400]]
 ![[Pasted image 20250302212717.png]]

@@ -6,6 +6,11 @@
 
 ![[Pasted image 20250226013831.png]]
 ![[Pasted image 20250226014020.png|500]]
+
+Ques.
+![[Pasted image 20250303035059.png]]
+![[Pasted image 20250303035046.png]]
+
 ![[Pasted image 20250226025449.png]]
 2^Q means power set of Q
 ![[Pasted image 20250226025839.png]]
@@ -26,3 +31,6 @@
 Minimal finite automata
 ![[Pasted image 20250226044129.png]]
 ![[Pasted image 20250226045333.png]]
+1. check unreachable states
+2. check by grouping method
+initially make groups of final , non final, and dead states
