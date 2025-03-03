@@ -1,4 +1,5 @@
 ![[Pasted image 20250226004539.png]]
+![[Pasted image 20250303080639.png]]
 ![[Pasted image 20250226004548.png|400]]
 ![[Pasted image 20250226004628.png|500]]
 ![[Pasted image 20250226010104.png|500]]
@@ -13,6 +14,7 @@ Ques.
 
 ![[Pasted image 20250226025449.png]]
 2^Q means power set of Q
+![[Pasted image 20250303080839.png]]
 ![[Pasted image 20250226025839.png]]
 ![[Pasted image 20250226030159.png]]
 ![[Pasted image 20250226033304.png]]
