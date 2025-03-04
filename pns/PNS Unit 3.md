@@ -36,6 +36,9 @@ E(X^n) is called the nth moment of n
 
 ![[Pasted image 20250304040518.png]]
 
+## Skewness
+
+![[Pasted image 20250304080920.png]]
 # Variance
 
 ![[Pasted image 20250304041431.png]]
@@ -58,7 +61,6 @@ Proof
 ![[Pasted image 20250304041903.png|400]]
 by substituting,
 ![[Pasted image 20250304041933.png|600]]
-
 # Moment Generating Functions
 
 ![[Pasted image 20250304042134.png]]
@@ -74,6 +76,7 @@ if X >= 0 and a > 0
 Proof
 ![[Pasted image 20250304060108.png|500]]
 
+![[Pasted image 20250304080839.png]]
 # Chebyshev Inequality
 
 ![[Pasted image 20250304061149.png]]
