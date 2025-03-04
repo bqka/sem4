@@ -75,17 +75,16 @@ if X >= 0 and a > 0
 
 Proof
 ![[Pasted image 20250304060108.png|500]]
-
-![[Pasted image 20250304080839.png]]
 # Chebyshev Inequality
 
 ![[Pasted image 20250304061149.png]]
 ![[Pasted image 20250304061202.png]]
 
+![[Pasted image 20250304080839.png]]
 # Chernoff's Inequality
 
 ![[Pasted image 20250304071027.png|600]]
-
+![[Pasted image 20250304082654.png|400]]
 # Mean & Variance of Special Distributions
 
 ![[Pasted image 20250304071845.png]]

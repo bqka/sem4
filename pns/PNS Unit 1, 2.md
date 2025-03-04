@@ -19,7 +19,10 @@ $$ \lambda = np$$
 ![[Pasted image 20250227005635.png|500]]
 ![[Pasted image 20250227010532.png|500]]
 ![[Pasted image 20250227014212.png|500]]
-
+![[Pasted image 20250304084233.png|500]]
+![[Pasted image 20250304084459.png|400]]
+Ex.
+![[Pasted image 20250304084535.png|400]]
 ### Continuous Uniform Distribution
 
 ![[Pasted image 20250227024509.png|500]]
