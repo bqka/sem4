@@ -89,6 +89,9 @@ Proof
 
 ![[Pasted image 20250304071723.png|400]]
 ![[Pasted image 20250304071741.png]]
+that integral = 1, if you substitute values, it turns out to be standard normal distribution only 
+so -inf to +inf integral = 1
+
 ![[Pasted image 20250304071750.png]]
 ![[Pasted image 20250304071759.png]]
 ![[Pasted image 20250304071806.png]]
