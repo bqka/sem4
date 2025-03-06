@@ -65,6 +65,8 @@ Basic computer has 25 instructions
 ![[Pasted image 20250228220330.png]]
 
 ![[Pasted image 20250228221138.png|450]]
+
+![[Pasted image 20250306085625.png|500]]
 ## Instruction Set Completeness
 
 ![[Pasted image 20250228234304.png]]
