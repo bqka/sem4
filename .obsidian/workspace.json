@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,12 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6717b17a89a9fb10",
+  "active": "63935c57ef6e2548",
   "lastOpenFiles": [
-    "csao/CSAO MM Chapter 6.md",
-    "csao/CSAO Unit 3.md",
+    "csao/attachments/Pasted image 20250306085309.png",
     "csao/CSAO Unit 2.md",
     "csao/CSAO Unit 1.md",
+    "csao/CSAO MM Chapter 6.md",
+    "csao/CSAO Unit 3.md",
     "csao/attachments/Pasted image 20250306071321.png",
     "csao/attachments/Pasted image 20250306071309.png",
     "csao/attachments/Pasted image 20250306070505.png",

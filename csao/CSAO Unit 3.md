@@ -1,5 +1,7 @@
 ![[Pasted image 20250303011001.png|400]]
 
+![[Pasted image 20250306085309.png]]
+
 # General Register Organization
 
 ![[Pasted image 20250303011255.png|500]]

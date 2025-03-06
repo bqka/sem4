@@ -86,7 +86,7 @@ Basic computer has 25 instructions
 ![[Pasted image 20250306050024.png|500]]
 for RRI, D7 = 1, I = 0
 ![[Pasted image 20250301005649.png|500]]
-# Design of Accumulator Logic
+	# Design of Accumulator Logic
 
 ![[Pasted image 20250301010822.png|500]]
 ![[Pasted image 20250301011557.png|400]]
