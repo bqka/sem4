@@ -8,7 +8,6 @@
 => 83 - (-23)
 Minuend - Subtrahend
 ![[Pasted image 20250301020320.png|400]]
-
 ## Translation to Binary
 
 ![[Pasted image 20250301041613.png|500]]

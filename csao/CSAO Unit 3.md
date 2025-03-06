@@ -13,9 +13,18 @@
 ![[Pasted image 20250303012346.png|400]]
 ![[Pasted image 20250303012429.png]]
 
-
 ![[Pasted image 20250303012458.png|350]]
-
+0 - Transfer A 
+1 - Increment A
+2 - add A + B
+5 - subtract A - B
+6 - decrement A
+8 - AND A and B
+10 - OR A and B
+12 - XOR A and B
+14 - Complement A
+16 - SHR A 
+24 - SHL A
 ### Example
 
 ![[Pasted image 20250303012657.png|150]]
@@ -45,10 +54,11 @@ for 64 word stack, max bit representation is 0-63, so when 63 + 1 = 0000000 so i
 
 Pop operation
 ![[Pasted image 20250303014546.png|500]]
-
 ## Memory Stack
 
-![[Pasted image 20250303014621.png|500]]
+A stack can exist as a stand-alone unit as in Fig. 8-3 or can be implemented in a random-access memory attached to a CPU. The implementation of a stack in the CPU is done by assigning a portion of memory to a stack operation and using a processor register as a stack pointer.
+
+![[Pasted image 20250303014621.png|400]]
 ![[Pasted image 20250303014816.png]]
 ![[Pasted image 20250303014849.png]]
 
