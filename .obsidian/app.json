@@ -3,5 +3,6 @@
   "vimMode": true,
   "newFileLocation": "root",
   "newFileFolderPath": "images",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }
