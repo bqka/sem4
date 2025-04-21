@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf758919f626d809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cn/CN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CN"
-            }
-          },
-          {
-            "id": "ef51f4ea6e60f6bf",
+            "id": "770be35e0a55d04b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,31 +22,31 @@
             }
           },
           {
-            "id": "770be35e0a55d04b",
+            "id": "ce91c9b64ce6bbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cn/CN Questions.md",
+                "file": "cn/Transport Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CN Questions"
+              "title": "Transport Layer"
             }
           },
           {
-            "id": "bbd8345113dfe35d",
+            "id": "24d68a70bccc6c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cn/Network Layer.md",
+                "file": "cn/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Layer"
+              "title": "Data Link Layer"
             }
           }
         ],
@@ -211,23 +197,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770be35e0a55d04b",
+  "active": "24d68a70bccc6c51",
   "lastOpenFiles": [
-    "cn/attachments/Pasted image 20250307110214.png",
-    "cn/attachments/Pasted image 20250307110201.png",
-    "cn/attachments/Pasted image 20250307110148.png",
-    "cn/attachments/Pasted image 20250307110005.png",
-    "cn/attachments/Pasted image 20250307105959.png",
-    "cn/attachments/Pasted image 20250307105953.png",
-    "cn/attachments/Pasted image 20250307105946.png",
-    "cn/attachments/Pasted image 20250307105941.png",
-    "cn/attachments/Pasted image 20250307105932.png",
-    "cn/attachments/Pasted image 20250307105923.png",
-    "cn/CN.md",
-    "cn/Data Link Layer.md",
     "cn/Network Layer.md",
-    "cn/attachments/Pasted image 20250307105705.png",
+    "cn/Data Link Layer.md",
+    "cn/CN.md",
     "cn/CN Questions.md",
+    "Session Layer.md",
+    "attachments/Pasted image 20250421020439.png",
+    "attachments/Pasted image 20250421020110.png",
+    "attachments",
+    "cn/Transport Layer.md",
+    "cn/attachments/Pasted image 20250421014827.png",
+    "cn/attachments/Pasted image 20250421014736.png",
+    "cn/attachments/Pasted image 20250421014659.png",
+    "cn/attachments/Pasted image 20250421014556.png",
+    "cn/attachments/Pasted image 20250421013933.png",
+    "cn/attachments/Pasted image 20250421013601.png",
+    "cn/attachments/Pasted image 20250421002840.png",
+    "cn/attachments/Pasted image 20250421001626.png",
+    "dbms/DBMS Unit 3.md",
+    "dbms/DBMS Unit 2.md",
+    "dbms/DBMS Unit 1.md",
     "Untitled",
     "cn/attachments",
     "csao/CSAO Unit 2.md",
@@ -235,9 +226,6 @@
     "csao/CSAO MM Chapter 6.md",
     "csao/CSAO Unit 3.md",
     "csao/CSAO Unit 1.md",
-    "dbms/DBMS Unit 3.md",
-    "dbms/DBMS Unit 2.md",
-    "dbms/DBMS Unit 1.md",
     "pns/PNS Unit 1, 2.md",
     "pns/PNS Unit 3.md",
     "pns/PNC Questions.md",
@@ -251,7 +239,6 @@
     "images/Untitled.md",
     "dbms",
     "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67ac31.TMP",
-    "csao/notes/WhatsApp Image 2025-02-27 at 14.13.46 (1).jpeg~RF5e67985b.TMP",
     "Welcome.md"
   ]
 }
