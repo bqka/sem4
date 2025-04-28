@@ -1,4 +1,4 @@
-	A computer instruction is a binary code that specifies a sequence of microoperations for the computer. Instruction codes together with data are stored in memory.
+A computer instruction is a binary code that specifies a sequence of microoperations for the computer. Instruction codes together with data are stored in memory.
 - The computer reads each instruction from memory and places it in a control register.
 - The control then interprets the binary code of the instruction and proceeds to execute it by issuing a sequence of microoperations.
 
@@ -100,6 +100,3 @@ for RRI, D7 = 1, I = 0
 ## Adder and Logic Circuit
 
 ![[Pasted image 20250301012448.png|500]]
-
-
-
