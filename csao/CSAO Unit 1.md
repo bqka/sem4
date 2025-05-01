@@ -1,6 +1,4 @@
 # Register Transfer Language
-![[csao/syllabus.png]]
-
 A **Microoperation** is an elementary operation performed on the information stored in one or more registers.
 
 ![[Pasted image 20250306034326.png]]
