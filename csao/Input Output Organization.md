@@ -158,3 +158,22 @@ disadvantage of polling
 ## Parallel Priority Interrupt
 
 ![[Pasted image 20250429040537.png]]
+
+--pending--
+
+# Direct Memory Access
+
+![[Pasted image 20250503063345.png|500]]
+
+![[Pasted image 20250503063505.png]]
+![[Pasted image 20250503063608.png]]
+
+![[Pasted image 20250503063707.png]]
+
+**CPU-IOP Communication**
+
+Memory unit acts as a center where both processors leaves information for the other.
+
+![[Pasted image 20250503064457.png]]
+
+	

@@ -26,6 +26,7 @@ Ques.
 ![[Pasted image 20250226033900.png|500]]
 ![[Pasted image 20250226034108.png|500]]
 ![[Pasted image 20250226034328.png|500]]
+![[Pasted image 20250506042516.png]]
 ![[Pasted image 20250226034655.png]]
 ![[Pasted image 20250226034933.png]]
 ![[Pasted image 20250226035808.png]]
@@ -36,3 +37,5 @@ Minimal finite automata
 1. check unreachable states
 2. check by grouping method
 initially make groups of final , non final, and dead states
+
+![[Pasted image 20250505160959.png]]
