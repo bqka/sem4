@@ -144,6 +144,7 @@ vectored interrupt -> the source provides the branch information called interrup
 ![[Pasted image 20250429035518.png]]
 
 ![[Pasted image 20250429035955.png]]
+![[Pasted image 20250507090338.png]]
 disadvantage of polling
 ![[Pasted image 20250429040040.png]]
 
@@ -155,12 +156,36 @@ disadvantage of polling
 ![[Pasted image 20250429040344.png]]
 ![[Pasted image 20250429040448.png]]
 
+![[Pasted image 20250429040537.png]]
 ## Parallel Priority Interrupt
 
-![[Pasted image 20250429040537.png]]
+![[Pasted image 20250507091151.png]]
+![[Pasted image 20250507091527.png]]
 
---pending--
+## Priority Encoder
 
+![[Pasted image 20250507091502.png|500]]
+![[Pasted image 20250507091611.png]]
+![[Pasted image 20250507091642.png]]
+
+## Interrupt Cycle
+
+![[Pasted image 20250507091719.png]]
+![[Pasted image 20250507091822.png]]
+![[Pasted image 20250507091829.png|400]]
+![[Pasted image 20250507091851.png|400]]
+
+## Software Routines
+
+![[Pasted image 20250507092828.png|550]]
+![[Pasted image 20250507093032.png]]
+
+## Initial and Final Operations
+![[Pasted image 20250507093949.png]]
+
+![[Pasted image 20250507094154.png]]
+![[Pasted image 20250507094320.png]]
+![[Pasted image 20250507094344.png]]
 # Direct Memory Access
 
 ![[Pasted image 20250503063345.png|500]]
@@ -176,4 +201,3 @@ Memory unit acts as a center where both processors leaves information for the ot
 
 ![[Pasted image 20250503064457.png]]
 
-	

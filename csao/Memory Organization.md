@@ -132,3 +132,38 @@ Write through and write back
 
 ## Address matching using pages
 
+![[Pasted image 20250507064008.png]]
+
+![[Pasted image 20250507064129.png]]
+![[Pasted image 20250507064144.png]]
+
+![[Pasted image 20250507064201.png]]
+![[Pasted image 20250507064425.png]]
+
+## Associative Memory Page Table
+
+![[Pasted image 20250507064547.png]]
+
+![[Pasted image 20250507064627.png|450]]
+![[Pasted image 20250507064715.png]]
+![[Pasted image 20250507064732.png]]
+
+hash map jesa
+
+## Page Replacement
+
+![[Pasted image 20250507064928.png]]
+
+page fault
+![[Pasted image 20250507064946.png]]
+
+page fault -> execution of program suspends -> loading a page from auxiliary to main memory is i/o operation -> OS assigns this to I/O processor -> control transferred to next program -> when page transferred, program continues
+
+FIFO
+![[Pasted image 20250507065202.png]]
+
+LRU
+![[Pasted image 20250507065252.png]]
+
+# Memory Management Hardware
+

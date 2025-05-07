@@ -51,7 +51,7 @@ n bit binary adders -> n full adders
 ## Binary Adder Subtractor
 
 ![[Pasted image 20250306035930.png|400]]
-When M = 0, we have B xor 0 = B. The full-adders receive the value of B, the input carry is O, and the circuit performs A plus B. When M = 1, we have B xor 1 = B' and C0 = 1. The B inputs are all complemented and a 1 is added through the input carry.
+When M = 0, we have B xor 0 = B. The full-adders receive the value of B, the input carry is 0, and the circuit performs A plus B. When M = 1, we have B xor 1 = B' and C0 = 1. The B inputs are all complemented and a 1 is added through the input carry.
 -> a + 2's complement of b = a - b
 ## Binary Incrementer
 
@@ -62,6 +62,11 @@ When M = 0, we have B xor 0 = B. The full-adders receive the value of B, the inp
 ![[Pasted image 20250228073701.png|500]]
 ![[Pasted image 20250228074022.png]]
 
+inputs of each mux are-
+B
+B'
+0
+1
 # Logic Microoperations
 
 ![[Pasted image 20250228074423.png]]

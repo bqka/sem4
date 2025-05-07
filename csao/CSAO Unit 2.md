@@ -74,25 +74,25 @@ Basic computer has 25 instructions
 # Timing and Control
 
 ![[Pasted image 20250228234843.png|400]]
-![[Pasted image 20250301000434.png|500]]
+![[Pasted image 20250301000434.png]]
 
 ![[Pasted image 20250306044150.png|200]]
-![[Pasted image 20250306044023.png|300]]
+![[Pasted image 20250306044023.png|500]]
 # Instruction Cycle
 
 ![[Pasted image 20250301001001.png|500]]
 ![[Pasted image 20250301002303.png|500]]
 ![[Pasted image 20250301001428.png|500]]
 ![[Pasted image 20250301002842.png|500]]
-![[Pasted image 20250301005044.png|500]]
-![[Pasted image 20250306050024.png|500]]
+![[Pasted image 20250301005044.png]]
+![[Pasted image 20250306050024.png]]
 for RRI, D7 = 1, I = 0
 ![[Pasted image 20250301005649.png|500]]
-	# Design of Accumulator Logic
+# Design of Accumulator Logic
 
 ![[Pasted image 20250301010822.png|500]]
 ![[Pasted image 20250301011557.png|400]]
-
+p = D7 I T3
 ## Control of AC Register
 
 ![[Pasted image 20250301011508.png|500]]

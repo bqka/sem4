@@ -4,11 +4,11 @@
 
 # General Register Organization
 
-![[Pasted image 20250303011255.png|500]]
+![[Pasted image 20250303011255.png]]
 
 ![[Pasted image 20250303011134.png|500]]
 
-![[Pasted image 20250303011442.png|500]]
+![[Pasted image 20250303011442.png]]
 
 ## Control Word
 
@@ -68,12 +68,10 @@ Push and pop
 ![[Pasted image 20250303014951.png]]
 
 to check stack overflow/underflow, we compare the Stack pointer with the upper-limit register (3000 in this case) after a push operation and lower-limit register (4001 in this case) after a pop operation
-
 # Instruction Formats
 
-![[Pasted image 20250306061219.png|400]]
-
-![[Pasted image 20250306061325.png|400]]
+![[Pasted image 20250306061219.png]]
+![[Pasted image 20250306061325.png]]
 
 1. One Address Instruction
 The instruction format in this type of computer uses one address field. For example, the instruction that specifies an arithmetic addition is defined by an assembly language instruction as ADD X where X is the address of the operand. The ADD instruction in this case results in the operation 
@@ -135,7 +133,7 @@ effective address = address part of instruction + content of CPU register
 - In this mode the content of a base register is added to the address part of the instruction to obtain the effective address.
 
 ![[Pasted image 20250306064551.png|400]]
-![[Pasted image 20250306064603.png|500]]
+![[Pasted image 20250306064603.png]]
 ![[Pasted image 20250306064623.png|400]]
 
 # Program Control

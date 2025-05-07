@@ -11,7 +11,7 @@ Minuend - Subtrahend
 ## Translation to Binary
 
 ![[Pasted image 20250301041613.png|500]]
-![[Pasted image 20250301041626.png|300]]
+![[Pasted image 20250301041626.png|400]]
 
 **Pseudo instruction**
 ![[Pasted image 20250301040408.png|500]]
@@ -34,7 +34,7 @@ CR is 0D
 
 - if a label symbol has less than 3 characters, the memory locations are filled with code for space 
 ## First Pass
-![[Pasted image 20250301041242.png|500]]
+![[Pasted image 20250301041242.png]]
 ![[Pasted image 20250301041035.png|400]]
 
 Since each word is 16 bits and a character has 8 bits, 1 word can hold 2 characters

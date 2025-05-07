@@ -50,6 +50,7 @@
 
 dividend >= 2 * divisor
 
+![[Pasted image 20250507182501.png]]
 # Floating Point Arithmetic Operations
 
 Register Configurations

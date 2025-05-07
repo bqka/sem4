@@ -1,5 +1,10 @@
-**Control Word:** The control variables can be represented by a string of 1's and 0's called a control word.
+![[Pasted image 20250507160940.png]]
+![[Pasted image 20250507160951.png]]
 
+![[Pasted image 20250507161623.png]]
+
+**Control Word:** The control variables can be represented by a string of 1's and 0's called a control word.
+![[Pasted image 20250507161739.png]]
 ![[Pasted image 20250428031256.png]]
 
 ![[Pasted image 20250428031531.png]]
@@ -33,9 +38,9 @@ control memory holds a fixed microprogram which cannot be altered by the occasio
 
 ![[Pasted image 20250428033341.png]]
 
-![[Pasted image 20250428033559.png|400]]
+![[Pasted image 20250428033559.png]]
 
-![[Pasted image 20250428034830.png|400]]
+![[Pasted image 20250428034830.png|500]]
 
 ![[Pasted image 20250428034859.png]]
 
@@ -58,10 +63,10 @@ in this example, control memory has 128 words (2^7) so AD has 7 bits
 ![[Pasted image 20250428040620.png]]
 
 ![[Pasted image 20250428040755.png]]
-
 ![[Pasted image 20250428040910.png]]
 
-![[Pasted image 20250428040932.png|400]]
+![[Pasted image 20250507133906.png|500]]
+![[Pasted image 20250428040932.png|500]]
 
 ![[Pasted image 20250428041134.png]]
 
@@ -70,9 +75,9 @@ in this example, control memory has 128 words (2^7) so AD has 7 bits
 ![[Pasted image 20250428041743.png]]
 ## The Fetch Routine
 
-![[Pasted image 20250428041702.png|400]]
-![[Pasted image 20250428041714.png|400]]
-![[Pasted image 20250428041719.png|400]]
+![[Pasted image 20250428041702.png]]
+![[Pasted image 20250428041714.png]]
+![[Pasted image 20250428041719.png]]
 
 **Symbolic Microprograms**
 ![[Pasted image 20250428042053.png]]
@@ -84,7 +89,7 @@ this specifies the word content for the control memory
 ## Designing of Control Unit
 
 **Decoding of microp fields**
-![[Pasted image 20250428042951.png|450]]
+![[Pasted image 20250428042951.png]]
 ![[Pasted image 20250428043154.png]]
 
 **Microprogram sequencer**
