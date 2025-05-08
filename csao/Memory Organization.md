@@ -73,7 +73,7 @@ main memory has 32k words of 12 bits
 cache memory has 512 words of 12 bits
 
 main memory requires 15 bits which are stored in 5 bit octal
-cache requires 12 bit which are stored in 3 bit octal
+cache requires 9 bit which are stored in 3 bit octal
 ## Associative mapping
 
 like a hashmap
@@ -81,7 +81,6 @@ like a hashmap
 ![[Pasted image 20250503130644.png|400]]
 ![[Pasted image 20250503130707.png]]
 ![[Pasted image 20250503130721.png]]
-
 ## Direct mapping
 
 ![[Pasted image 20250503131517.png]]
@@ -164,6 +163,3 @@ FIFO
 
 LRU
 ![[Pasted image 20250507065252.png]]
-
-# Memory Management Hardware
-

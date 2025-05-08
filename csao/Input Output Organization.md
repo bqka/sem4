@@ -174,7 +174,6 @@ disadvantage of polling
 ![[Pasted image 20250507091822.png]]
 ![[Pasted image 20250507091829.png|400]]
 ![[Pasted image 20250507091851.png|400]]
-
 ## Software Routines
 
 ![[Pasted image 20250507092828.png|550]]
@@ -187,6 +186,14 @@ disadvantage of polling
 ![[Pasted image 20250507094320.png]]
 ![[Pasted image 20250507094344.png]]
 # Direct Memory Access
+
+![[Pasted image 20250508043622.png]]
+![[Pasted image 20250508043704.png]]
+![[Pasted image 20250508043944.png]]
+![[Pasted image 20250508043712.png]]
+
+![[Pasted image 20250508043931.png]]
+# IOP Processor
 
 ![[Pasted image 20250503063345.png|500]]
 
