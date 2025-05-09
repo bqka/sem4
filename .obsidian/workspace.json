@@ -8,91 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79660aa9ebd78e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "csao/CSAO Unit 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSAO Unit 2"
-            }
-          },
-          {
-            "id": "9cd688e08e07bc55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "csao/Input Output Organization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Input Output Organization"
-            }
-          },
-          {
-            "id": "47508efb8be02a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "csao/CSAO Unit 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSAO Unit 1"
-            }
-          },
-          {
             "id": "88cb6398e2c70132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csao/Memory Organization.md",
+                "file": "cn/CN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Organization"
+              "title": "CN"
             }
           },
           {
-            "id": "534a0329022c0224",
+            "id": "d8f4592022e07cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csao/Computer Arithmetic.md",
+                "file": "cn/Data Link Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Arithmetic"
+              "title": "Data Link Layer"
             }
           },
           {
-            "id": "4d582e798833b145",
+            "id": "58b74a22142011c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csao/Microprogammed Control.md",
+                "file": "cn/Transport Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microprogammed Control"
+              "title": "Transport Layer"
+            }
+          },
+          {
+            "id": "b9f46e1547d95cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cn/CN Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CN Questions"
+            }
+          },
+          {
+            "id": "4c7ccb18fca11ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cn/Network Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Layer"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,8 +225,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88cb6398e2c70132",
+  "active": "4c7ccb18fca11ed6",
   "lastOpenFiles": [
+    "cn/CN Questions.md",
+    "cn/Transport Layer.md",
+    "cn/attachments/Pasted image 20250509153158.png",
+    "cn/attachments/Pasted image 20250509152807.png",
+    "cn/attachments/Pasted image 20250509152752.png",
+    "cn/Network Layer.md",
+    "cn/attachments/Pasted image 20250509152710.png",
+    "cn/attachments/Pasted image 20250509152708.png",
+    "cn/attachments/Pasted image 20250509152629.png",
+    "cn/attachments/Pasted image 20250509145059.png",
+    "cn/attachments/Pasted image 20250509144814.png",
+    "cn/syllabus.png",
+    "cn/attachments/Pasted image 20250509143616.png",
+    "cn/Session Layer.md",
+    "cn/Data Link Layer.md",
+    "cn/CN.md",
+    "csao/Memory Organization.md",
     "csao/Microprogammed Control.md",
     "csao/Input Output Organization.md",
     "csao/CSAO MM Chapter 6.md",
@@ -248,17 +251,6 @@
     "csao/CSAO Unit 2.md",
     "csao/CSAO Unit 1.md",
     "csao/Computer Arithmetic.md",
-    "csao/Memory Organization.md",
-    "csao/attachments/Pasted image 20250508043944.png",
-    "csao/attachments/Pasted image 20250508043931.png",
-    "csao/attachments/Pasted image 20250508043712.png",
-    "csao/attachments/Pasted image 20250508043704.png",
-    "csao/attachments/Pasted image 20250508043622.png",
-    "csao/attachments/Pasted image 20250507182501.png",
-    "csao/attachments/Pasted image 20250507161739.png",
-    "csao/attachments/Pasted image 20250507161623.png",
-    "csao/attachments/Pasted image 20250507160951.png",
-    "csao/attachments/Pasted image 20250507160940.png",
     "toc/TOC Unit 1.md",
     "toc/TOC Unit 2.md",
     "toc/TOC Remaining.md",
@@ -268,12 +260,6 @@
     "pns/PNS Unit 1, 2.md",
     "pns/PNS Unit 6.md",
     "pns/PNS Questions.md",
-    "cn/Data Link Layer.md",
-    "cn/Transport Layer.md",
-    "cn/Network Layer.md",
-    "cn/CN Questions.md",
-    "cn/CN.md",
-    "cn/Session Layer.md",
     "attachments",
     "dbms/DBMS Unit 3.md",
     "dbms/DBMS Unit 2.md",
