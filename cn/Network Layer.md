@@ -41,3 +41,6 @@ Count to infinity problem
 Link State Routing Algo
 ![[Pasted image 20250509135406.png]]
 ![[Pasted image 20250509135837.png]]
+
+![[Pasted image 20250510053006.png]]
+![[Pasted image 20250510053015.png]]
