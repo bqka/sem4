@@ -6,6 +6,7 @@
 all alpha -> beta 
 beta != Non Primary
 ![[Pasted image 20250305064859.png]]
+![[Pasted image 20250512190339.png]]
 
 ![[Pasted image 20250305054036.png]]
 Pseudo Transitive
@@ -14,3 +15,6 @@ $$\alpha \rightarrow \beta,\space \beta \gamma \rightarrow \delta, \space \alpha
 **BCNF:** R is said to be in BCNF under F if all the FDs under F+ of the type alpha -> beta where alpha, beta are subset of R one of the following condition is true -
 1. alpha -> beta is a trivial FD
 2. alpha is super key
+
+![[Pasted image 20250512190441.png]]
+
