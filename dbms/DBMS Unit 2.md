@@ -36,3 +36,22 @@ works on compatible relations only
 
 Aggregate function
 ![[Pasted image 20250305085750.png]]
+
+![[Pasted image 20250515104526.png]]
+![[Pasted image 20250515104531.png]]
+
+![[Pasted image 20250515104538.png]]
+
+![[Pasted image 20250515104547.png]]
+
+specialization, entity integrity
+![[Pasted image 20250515104624.png]]
+![[Pasted image 20250515104802.png]]
+
+![[Pasted image 20250515104726.png]]
+
+![[Pasted image 20250515104737.png]]
+
+![[Pasted image 20250515104822.png]]
+
+![[Pasted image 20250515104835.png]]

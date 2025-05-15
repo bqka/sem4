@@ -95,3 +95,24 @@ every relation needs
 ![[Pasted image 20250305083124.png|400]]
 
 ![[Pasted image 20250305083250.png]]
+
+![[Pasted image 20250515104134.png]]
+![[Pasted image 20250515104152.png]]
+
+![[Pasted image 20250515104214.png]]
+
+![[Pasted image 20250515104302.png]]
+
+![[Pasted image 20250515104311.png]]
+
+![[Pasted image 20250515104324.png]]
+
+![[Pasted image 20250515104332.png]]
+
+![[Pasted image 20250515104345.png]]
+
+![[Pasted image 20250515104357.png]]
+![[Pasted image 20250515104415.png]]
+
+![[Pasted image 20250515104423.png]]
+

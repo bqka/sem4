@@ -18,3 +18,14 @@ $$\alpha \rightarrow \beta,\space \beta \gamma \rightarrow \delta, \space \alpha
 
 ![[Pasted image 20250512190441.png]]
 
+![[Pasted image 20250514192258.png]]
+![[Pasted image 20250514192310.png]]
+
+![[Pasted image 20250514200359.png]]
+
+![[Pasted image 20250515104445.png]]
+
+![[Pasted image 20250515104453.png]]
+
+![[Pasted image 20250515104502.png]]
+
