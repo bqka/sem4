@@ -29,3 +29,4 @@ $$\alpha \rightarrow \beta,\space \beta \gamma \rightarrow \delta, \space \alpha
 
 ![[Pasted image 20250515104502.png]]
 
+![[Pasted image 20250515112926.png]]
